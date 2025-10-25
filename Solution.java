@@ -14,7 +14,7 @@ import java.util.Vector;
                 l++;
                 r--;
             }
-            
+
         }
     }
 
